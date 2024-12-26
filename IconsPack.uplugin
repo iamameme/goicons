@@ -1,0 +1,34 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "IconsPack",
+	"Description": "Google Symbols Ported to Unreal",
+	"Category": "Other",
+	"CreatedBy": "Steven Barsam",
+	"FabURL": "com.epicgames.launcher://ue/Fab/product/5a92eee1-d1c4-4bcc-9cba-9ce745d3d0c9",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.1.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "IconsPack",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Text3D",
+			"Enabled": true
+		}
+	]
+}
