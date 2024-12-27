@@ -22,7 +22,6 @@ If you don't want the ease of having dropdowns for each icon, or maybe you only 
 - Find the `Code Point` for the icon (ie. `e8b6`)
 - Now, this differs if in Blueprints or C++
     - If in Blueprints: 
-        - Copy that code point into your clipboard (ie. from a site like [this](https://jrgraphix.net/r/Unicode/E000-F8FF))
-        - Paste it into the Text of the TextBlock
+        - Enter that unicode character into the text
     - If in C++:
         - Set the Text to the unicode character, for example, `\ue8b6`
